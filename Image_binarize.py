@@ -1,3 +1,8 @@
+"""
+Code made by: BetFrac team
+This code has been made for binarizing images in orther to
+calculate it fractal dimension using "ImageJ"
+"""
 import cv2
 import numpy as np
 
