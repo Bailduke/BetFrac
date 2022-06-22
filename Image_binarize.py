@@ -1,5 +1,6 @@
 """
 Code made by: BetFrac team
+This code is an adaptation from this one: https://projects.raspberrypi.org/en/projects/astropi-ndvi
 This code has been made for binarizing images in orther to
 calculate it fractal dimension using "ImageJ"
 """
